@@ -2,6 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
+<span> 
+  I'm currently working on learning javaScript
+  I'm currently working on my toDo list on clear javaScript
+</span>
+
 <!--
 **reDdboy/reDdboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
