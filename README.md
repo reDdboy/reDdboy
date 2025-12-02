@@ -4,13 +4,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Computer+Science+Student;JavaScript+Developer;Open-Source+Enthusiast" alt="Typing SVG" />
 </h3>
-
-<p align="center">
-  <a href="https://github.com/reDdboy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reDdboy&theme=onedark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -20,7 +13,6 @@
 🚀 **Open-Source Enthusiast**
 
 **📌 Quick Facts:**
-- 🏳️ Pronouns: He/Him
 - 💼 Currently: Student & Self-taught Developer
 - 📚 Learning: Advanced JavaScript, Web Development
 - 🎯 Goal: Become a Full-Stack Developer
@@ -45,7 +37,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
   <br/>
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
