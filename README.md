@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Computer+Student;JavaScript+Developer;Russuian+Develover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Computer+Student;JavaScript+Developer;" alt="Typing SVG" />
 </h3>
 ---
 
@@ -10,7 +10,6 @@
 
 🎓 **Computer Science Student**  
 💻 **JavaScript Developer**  
-🚀 **Open-Source Enthusiast**
 
 **📌 Quick Facts:**
 - 💼 Currently: Student & Self-taught Developer
@@ -29,7 +28,6 @@
 - **JavaScript** (ES6+, Async/Await, DOM Manipulation)
 - **Frontend Development** (HTML5, CSS3, Responsive Design)
 - **Git & GitHub** (Version control and collaboration)
-- **Web Development Best Practices**
 
 ## 🛠️ Tech Stack & Tools
 
