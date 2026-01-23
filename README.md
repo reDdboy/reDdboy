@@ -4,7 +4,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Computer+Student;JavaScript+Developer;" alt="Typing SVG" />
 </h3>
----
+
 
 ## Technologies
 
@@ -36,4 +36,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
----
+
