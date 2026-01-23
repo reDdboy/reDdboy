@@ -5,30 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Computer+Student;JavaScript+Developer;" alt="Typing SVG" />
 </h3>
 ---
-
-## 👨‍💻 About Me
-
-🎓 **Computer Science Student**  
-💻 **JavaScript Developer**  
-
-**📌 Quick Facts:**
-- 💼 Currently: Student & Self-taught Developer
-- 📚 Learning: Advanced JavaScript, Web Development
-- 🎯 Goal: Become a Full-Stack Developer
-- 🔧 Working on: ToDo List application in pure JavaScript
-
-## 🚀 Current Projects
-
-### 🔭 **Working On:**
-- **📝 ToDo List Application** - Task manager built with pure JavaScript
-- **🎯 JavaScript Learning Projects** - Various exercises and small applications
-- **🌐 Portfolio Website** - Showcasing my projects and skills
-
-### 🌱 **Currently Learning:**
-- **JavaScript** (ES6+, Async/Await, DOM Manipulation)
-- **Frontend Development** (HTML5, CSS3, Responsive Design)
-- **Git & GitHub** (Version control and collaboration)
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -46,14 +22,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/reDdboy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=reDdboy&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-  </a>
-</p>
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -67,15 +35,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 ---
-
-<div align="center">
-  
-### ⭐ Star my repositories if you find them interesting!
-  
-[![Visitors](https://komarev.com/ghpvc/?username=reDdboy&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)](https://github.com/reDdboy)
-  
-**From [reDdboy](https://github.com/reDdboy) with ❤️**
-  
-</div>
