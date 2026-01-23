@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Computer+Student;JavaScript+Developer;" alt="Typing SVG" />
 </h3>
 ---
-## 🛠️ Tech Stack & Tools
+
+## Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -22,7 +23,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/reDdboy" target="_blank">
