@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://reddboy.ru" target="_blank">Aleksandr</a> 
+<h1 align="center">Hi there, I'm <a href="https://reddboy.ru" rel="noopener norefrrer" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h3 align="center">
