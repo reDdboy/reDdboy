@@ -42,7 +42,6 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reDdboy&show_icons=false&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="auto" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reDdboy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="auto" />
 </p>
 
