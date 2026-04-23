@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://reddboy.ru" rel="noopener norefrrer" target="_blank">Aleksandr</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20px"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px"/></h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Computer+Student;JavaScript+Developer;" alt="Typing SVG" />
